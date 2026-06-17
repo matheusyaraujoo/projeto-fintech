@@ -1,0 +1,15 @@
+# Binário do Tailwind Standalone CLI (não versionar — cada máquina baixa o seu)
+tailwindcss.exe
+tailwindcss
+tailwindcss-*
+
+# Node (caso o plano B com npx seja usado em outra máquina)
+node_modules/
+npm-debug.log*
+
+# Sistema operacional / editor
+Thumbs.db
+.DS_Store
+.vscode/
+
+# IMPORTANTE: o output.css É versionado (a página precisa dele para funcionar offline).
