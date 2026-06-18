@@ -39,7 +39,7 @@ projeto-fintech/
 
 ## ▶️ Como visualizar
 
-Basta abrir o `index.html` no navegador - **não precisa de internet**.
+Basta abrir o `index.html` no navegador (**não precisa de internet**).
 Para evitar restrições de `file://`, você também pode servir a pasta localmente:
 
 ```bash
