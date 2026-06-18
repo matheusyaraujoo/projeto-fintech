@@ -1,6 +1,6 @@
 # Órbita Bank — Dashboard
 
-Tela de **Dashboard** de uma fintech fictícia (**Órbita Bank** — conta digital com cartão, Pix e investimentos), desenvolvida como atividade avaliativa do curso de **Análise e Desenvolvimento de Sistemas (FIAP)**.
+Tela de **Dashboard** de uma fintech fictícia (**Órbita Bank** - conta digital com cartão, Pix e investimentos), desenvolvida como atividade avaliativa do curso de **Análise e Desenvolvimento de Sistemas (FIAP)**.
 
 Construída com **HTML + Tailwind CSS** (CSS compilado estático), responsiva e **100% funcional offline**.
 
@@ -39,7 +39,7 @@ projeto-fintech/
 
 ## ▶️ Como visualizar
 
-Basta abrir o `index.html` no navegador — **não precisa de internet**.
+Basta abrir o `index.html` no navegador - **não precisa de internet**.
 Para evitar restrições de `file://`, você também pode servir a pasta localmente:
 
 ```bash
@@ -70,4 +70,4 @@ até desktop, sem rolagem horizontal.
 
 ---
 
-Projeto acadêmico — FIAP / ADS.
+Projeto acadêmico, FIAP / ADS.
