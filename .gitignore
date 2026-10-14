@@ -12,4 +12,8 @@ Thumbs.db
 .DS_Store
 .vscode/
 
+# Java compiled output
+out/
+*.class
+
 # IMPORTANTE: o output.css É versionado (a página precisa dele para funcionar offline).
