@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConnectionFactory {
 
-    private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL";
+    private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl";
     private static final String USUARIO = "RM571716";
     private static final String SENHA = "fiap2025";
 
