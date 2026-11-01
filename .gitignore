@@ -15,5 +15,10 @@ Thumbs.db
 # Java compiled output
 out/
 *.class
+target/
+
+# Frontend build
+frontend/build/
+frontend/node_modules/
 
 # IMPORTANTE: o output.css É versionado (a página precisa dele para funcionar offline).
